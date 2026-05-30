@@ -1,3 +1,41 @@
+# Insights 
+ielts writing LOL 
+## 1. Global land–ocean temperature anomalies, 1880–2025
+
+Biểu đồ heatmap này cho thấy rõ ràng xu hướng nóng lên toàn cầu rất. Từ năm 1880 đến khoảng giữa thế kỷ 20, phần lớn các ô có màu xanh nhạt, nghĩa là nhiệt độ toàn cầu thấp hơn mức chuẩn 1951–1980. Nhưng từ khoảng sau thập niên 1980, màu sắc chuyển dần sang cam và đỏ, cho thấy nhiệt độ ngày càng cao hơn mức chuẩn.
+
+Điểm đáng chú ý là sự nóng lên không chỉ xảy ra ở một vài tháng hoặc một vài năm riêng lẻ. Từ những năm 2000, đặc biệt sau năm 2015, gần như toàn bộ các tháng đều có nhiệt độ cao hơn mức chuẩn. Các dải màu đỏ đậm ở những năm gần đây cho thấy mức tăng nhiệt mạnh nhất trong toàn bộ giai đoạn quan sát.
+
+Insight chính: **biến đổi khí hậu thể hiện qua xu hướng nóng lên kéo dài, ngày càng rõ rệt và xuất hiện xuyên suốt các tháng trong năm.**
+
+## 2. Monthly precipitation by Minnesota site, 1927–1936
+
+Biểu đồ đường này thể hiện lượng mưa hàng tháng tại 6 địa điểm ở Minnesota trong giai đoạn 1927–1936. Dữ liệu có mức dao động rất mạnh, với nhiều đoạn tăng giảm đột ngột giữa các tháng và giữa các địa điểm. Phần lớn các tháng có lượng mưa tương đối thấp, thường dưới 2 inch, nhưng cũng có một số tháng xuất hiện lượng mưa cực lớn, vượt 6–10 inch.
+
+Waseca là địa điểm nổi bật với một số đỉnh mưa rất cao, đặc biệt khoảng năm 1935 khi lượng mưa vượt 10 inch. StPaul và Duluth cũng có nhiều thời điểm ghi nhận lượng mưa lớn. Tuy nhiên, toàn bộ biểu đồ không cho thấy một xu hướng tăng hoặc giảm dài hạn rõ ràng trong 10 năm. Thay vào đó, lượng mưa có vẻ phụ thuộc nhiều vào các sự kiện thời tiết cực đoan và tính mùa vụ.
+
+Insight chính: l**ượng mưa biến động thất thường hơn nhiệt độ, và các tháng có mưa cực lớn là yếu tố chi phối mạnh nhất đến hình dạng biểu đồ.**
+
+## 3. Average monthly temperature by city
+
+Biểu đồ heatmap này so sánh nhiệt độ trung bình theo tháng của 5 thành phố. Nó cho thấy rất rõ rằng mỗi thành phố có một kiểu khí hậu riêng.
+
+Beijing và Chicago có tính mùa vụ rất mạnh: mùa đông lạnh, mùa hè nóng. Beijing tăng từ khoảng 25°F vào tháng 1 lên khoảng 81°F vào tháng 7, còn Chicago tăng từ khoảng 27°F lên khoảng 75°F. Điều này cho thấy hai thành phố này có biên độ nhiệt trong năm rất lớn.
+
+Mumbai thì nóng quanh năm, phần lớn dao động trong khoảng giữa 70°F đến giữa 80°F. Các tháng nóng nhất rơi vào khoảng tháng 4 và tháng 5. San Diego có khí hậu ôn hòa hơn, nhiệt độ chủ yếu nằm trong khoảng gần 60°F đến hơn 70°F. Auckland có chu kỳ mùa ngược với các thành phố ở Bắc bán cầu: nóng hơn vào tháng 1–2 và mát hơn vào tháng 6–8.
+
+Insight chính: **heatmap giúp so sánh rất nhanh sự khác biệt về mùa vụ và đặc điểm khí hậu giữa các thành phố.**
+
+## 4. Daily weather: temperature vs humidity with precipitation size
+
+Biểu đồ scatter này thể hiện mối quan hệ giữa độ ẩm trung bình và nhiệt độ trung bình hằng ngày. Kích thước điểm thể hiện lượng mưa, còn màu sắc thể hiện từng thành phố.
+
+Không có một mối quan hệ tuyến tính đơn giản giữa nhiệt độ và độ ẩm cho tất cả các thành phố. Thay vào đó, mỗi thành phố tạo thành một cụm dữ liệu riêng. Mumbai tập trung ở vùng nhiệt độ cao và độ ẩm cao, thể hiện đặc điểm khí hậu nóng ẩm. San Diego nằm ở vùng nhiệt độ ôn hòa và độ ẩm trung bình đến cao. Chicago có độ phân tán nhiệt độ rộng nhất, từ rất lạnh đến khá nóng, phản ánh sự thay đổi mùa rõ rệt. Beijing cũng có phạm vi rộng, xuất hiện cả các ngày khô/lạnh và nóng/ẩm. Auckland tập trung hơn, chủ yếu ở vùng khí hậu mát vừa và ẩm.
+
+Các điểm có kích thước lớn hơn thường xuất hiện ở vùng có độ ẩm cao hơn, cho thấy lượng mưa thường gắn với điều kiện không khí ẩm. Tuy nhiên, mối quan hệ này không tuyệt đối: độ ẩm cao không phải lúc nào cũng dẫn đến mưa lớn.
+
+Insight chính: **khác biệt khí hậu giữa các thành phố quan trọng hơn một mối quan hệ đơn giản giữa nhiệt độ và độ ẩm; lượng mưa có xu hướng xuất hiện nhiều hơn khi độ ẩm cao.**
+
 # 📊 Trực quan hóa Dữ liệu Khí hậu & Thủy văn Đa chiều
 
 Chào mừng! Dự án này mang đến một khám phá ngắn gọn nhưng sinh động về ba bộ dữ liệu thực tế liên quan đến thời tiết và khí hậu. Mục tiêu rất đơn giản: **biến các bảng dữ liệu thô thành những hình ảnh** kể câu chuyện về các quy luật trên nhiều chiều kích — thời gian, không gian, nhiệt độ, độ ẩm và nhiều hơn nữa. Một script Python trong `src/create_visualizations.py` sẽ thực hiện phần công việc nặng nhọc, đọc các file CSV trong thư mục `data/`, tạo ra các biểu đồ bằng các thư viện quen thuộc như `pandas`, `matplotlib` và `seaborn`, rồi lưu chúng vào thư mục `output/`. Dưới đây là cái nhìn nhanh về cấu trúc thư mục:
